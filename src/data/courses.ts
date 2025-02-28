@@ -34,14 +34,14 @@ const courses = [
     title: "Android Development",
     description: "Create mobile applications for Android using Kotlin and Android Studio",
     image: "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb",
-    contentUrl: "/course/Android-Development",
+    contentUrl: "/course/android-development",
     playlistUrl: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd"
   },
   {
     title: "Machine Learning",
     description: "Explore ML algorithms and build intelligent applications",
     image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
-    contentUrl: "/course/Machine-Learning",
+    contentUrl: "/course/machine-learning",
     playlistUrl: "https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG"
   },
 ];
